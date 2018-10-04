@@ -9,3 +9,5 @@ Unzip the .Zip file and open the project in Visual Studio 2017, then run it.
 
 The Metatrader 5 platform will then call the URL "http://127.0.0.1:9090/send_data/" on each tick, and will send all the forex rates to the C# HTTP Server.
 
+In C#, you can then code any algorithm for real-time analysis of forex rates (and all other financial instruments).
+
