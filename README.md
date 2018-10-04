@@ -1,4 +1,7 @@
 # Forex-Rates-Viewer
+
+METATRADER 5 ---> HTTP POST ---> DOT NET C#
+
 Send rates from Metatrader 5 to Dot Net C# Application !
 
 In your Metatrader 5 platform, add "http://127.0.0.1" in the list of URL that are authorized for Webrequests (in Options/Expert Consultants).
