@@ -11,3 +11,5 @@ The Metatrader 5 platform will then call the URL "http://127.0.0.1:9090/send_dat
 
 In C#, you can then code any algorithm for real-time analysis of forex rates (and all other financial instruments).
 
+If you need help of need me for a project, feel free to contact me at investdatasystems@yahoo.com.
+
