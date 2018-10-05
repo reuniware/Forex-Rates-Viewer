@@ -1,6 +1,6 @@
 # Forex-Rates-Viewer
 
-METATRADER 5 ---> HTTP POST ---> DOT NET C# --> File in "\My Documents" folder
+METATRADER 5 ---> HTTP POST ---> DOT NET C# --> CSV File in "\My Documents" folder
 
 Send rates from Metatrader 5 to Dot Net C# Application !
 
