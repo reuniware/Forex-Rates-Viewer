@@ -1,4 +1,4 @@
-# Forex-Rates-Viewer
+# Forex-Rates-Viewer (Get Forex Rates from Metatrader 5 and log data to CSV file).
 
 METATRADER 5 ---> HTTP POST ---> DOT NET C# --> CSV File in "\My Documents" folder
 
